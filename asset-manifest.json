@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Ravikiran811/Partner-Hub.git/static/css/main.17f8f9fa.css",
+    "main.js": "/Ravikiran811/Partner-Hub.git/static/js/main.a073202c.js",
+    "static/media/supermarkets.jpg": "/Ravikiran811/Partner-Hub.git/static/media/supermarkets.f41400a4a735dbc82609.jpg",
+    "static/media/furniture.jpg": "/Ravikiran811/Partner-Hub.git/static/media/furniture.3fd60e1d0fa0caf275e4.jpg",
+    "static/media/foodbusiness.webp": "/Ravikiran811/Partner-Hub.git/static/media/foodbusiness.6c3ec768668010933dd4.webp",
+    "static/media/footwear.avif": "/Ravikiran811/Partner-Hub.git/static/media/footwear.9c205f222c8d3ca0e9b8.avif",
+    "static/media/garage.jpg": "/Ravikiran811/Partner-Hub.git/static/media/garage.52ef8bb606a119f94480.jpg",
+    "static/media/medical.jpg": "/Ravikiran811/Partner-Hub.git/static/media/medical.135a565cb59b88f45a37.jpg",
+    "static/media/transport.jpg": "/Ravikiran811/Partner-Hub.git/static/media/transport.3aaf01cd4e598eb294a1.jpg",
+    "static/media/back.jpg": "/Ravikiran811/Partner-Hub.git/static/media/back.9391fb53764d7c5ef2f2.jpg",
+    "static/media/fashion-mall.avif": "/Ravikiran811/Partner-Hub.git/static/media/fashion-mall.3fb6ab45c620ddf96a77.avif",
+    "static/media/elecronics.avif": "/Ravikiran811/Partner-Hub.git/static/media/elecronics.d00edd058859a325a356.avif",
+    "static/media/user.png": "/Ravikiran811/Partner-Hub.git/static/media/user.89b7b4c732932e09ae8c.png",
+    "static/media/enterprener.png": "/Ravikiran811/Partner-Hub.git/static/media/enterprener.e799366f93e8f3ed4504.png",
+    "static/media/handshake.webp": "/Ravikiran811/Partner-Hub.git/static/media/handshake.24957fcd34684f172e28.webp",
+    "static/media/mobile.avif": "/Ravikiran811/Partner-Hub.git/static/media/mobile.4ddd84a50cdcbcc29c8d.avif",
+    "index.html": "/Ravikiran811/Partner-Hub.git/index.html",
+    "main.17f8f9fa.css.map": "/Ravikiran811/Partner-Hub.git/static/css/main.17f8f9fa.css.map",
+    "main.a073202c.js.map": "/Ravikiran811/Partner-Hub.git/static/js/main.a073202c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17f8f9fa.css",
+    "static/js/main.a073202c.js"
+  ]
+}
