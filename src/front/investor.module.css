@@ -1,0 +1,14 @@
+.header1{
+    height: 100px;
+    width: 100%;
+    background-color: navy;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-bottom: 2px; */
+}
+.header1 h1{
+    margin: 20px;
+    color: white;
+    font-size: 40px;
+}

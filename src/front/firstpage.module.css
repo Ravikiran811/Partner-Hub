@@ -1,0 +1,68 @@
+/* .body{
+    height: 680px;
+    width: 100%;
+    background-color: red;
+} */
+.header1{
+    height: 100px;
+    width: 100%;
+    background-color: navy;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    /* margin-bottom: 2px; */
+}
+.body{
+    background-image: url('./back.jpg');
+    background-repeat: no-repeat;
+    background-color: white;
+    background-size: cover;
+    height: 580px;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.header1 button{
+    height: 40px;
+    width: 90px;
+    border: 2px solid red;
+    font-size: 20px;
+    margin: 20px;
+    font-family: serif;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.header1 h1{
+    margin: 20px;
+    color: white;
+    font-size: 40px;
+}
+.body .border{
+    height: 400px;
+    width: 600px;
+    border: 15px solid black;
+    outline: 5px solid red;
+    background-color: white;
+    background-image: url('./css/handshake.webp');
+    margin: 0%;
+    padding: 0%;
+    background-repeat: no-repeat;
+    background-color: white;
+    background-size: cover;
+}
+.body button{
+    height: 40px;
+    width: 100px;
+    border: 2px solid black;
+    font-size: 25px;
+    border-radius: 5px;
+    margin-top: 30px;
+    /* background-color: rgb(4, 48, 10) ; */
+    font-family: serif;
+    font-weight: bolder;
+    /* color: white; */
+}
